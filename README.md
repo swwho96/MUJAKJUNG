@@ -6,6 +6,6 @@
 
 
 ### Vison
-[https://github.com/swwho96/MUJAKJUNG/tree/main/cloth] 옷 분류 모델 만들어보기
+[옷 분류 모델 만들기](https://github.com/swwho96/MUJAKJUNG/tree/main/cloth)
 
 ### NLP
