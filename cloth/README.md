@@ -1,5 +1,5 @@
 
-![이미지](https://storage.googleapis.com/kaggle-datasets-images/929774/1572891/81d1278b3f27681e98600c34a2246184/dataset-cover.png)
+![이미지](![dataset-cover](https://github.com/swwho96/MUJAKJUNG/assets/67579479/cfd2c4dd-5402-423b-a5e3-8f1cfc034fa1))
 
 # 옷 분류 모델 만들기
 
