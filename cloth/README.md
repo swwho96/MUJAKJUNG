@@ -1,5 +1,5 @@
 
-![이미지](![dataset-cover](https://github.com/swwho96/MUJAKJUNG/assets/67579479/cfd2c4dd-5402-423b-a5e3-8f1cfc034fa1))
+![dataset-cover](https://github.com/swwho96/MUJAKJUNG/assets/67579479/cfd2c4dd-5402-423b-a5e3-8f1cfc034fa1)
 
 # 옷 분류 모델 만들기
 
